@@ -1,7 +1,7 @@
  ## Olá, Eu sou a Maria Saldanha!! 
 
-- 🔭 I’m currently worked como Analista de Suporte
-- 🌱 I’m currently learning: React, Java    Script e Angular
+- 🔭 Worked como Analista de Suporte
+- 🌱 Learning: React, Java Script e Angular.
 - ⚡ Fun fact:
 
  <div>
