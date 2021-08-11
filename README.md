@@ -16,7 +16,10 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+  <img align="right" alt="groot" height="150" width="180"  src="https://media1.giphy.com/media/R97jJCEGEmh0I/giphy.gif?cid=ecf05e47qf81oicei4cw95j571uziatyl8o4fptejredfgk7&amp;rid=giphy.gif&amp;ct=g" alt="baby groot GIF">
+  <img align="right" alt="groot-festa" height="150" width="180"  src="https://blog.lootcrate.com/wp-content/uploads/2019/12/giphy-58.gif">
+  <img align="right" alt="groot-festa" height="150" width="180"  src="https://c.tenor.com/aIYqqDd8tnUAAAAC/real-groot-baby-groot.gif">
+ 
  
 </div>
   
