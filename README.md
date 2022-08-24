@@ -1,7 +1,7 @@
  ## Olá, Eu sou a Maria Saldanha!! 
 
 - 🔭 Profissão: Analista de Suporte.
-- 🌱 Aprendendo: Java Script, Kotlin e Python.
+- 🌱 Aprendendo: Java Script, Kotlin, Flesk e Python.
 - 🔊 Linguagens: Inglês Básico
 - 🎓 Formação: Engenharia da Computação
 
