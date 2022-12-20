@@ -2,7 +2,7 @@
 
 - 🔭 Profissão: Analista de Suporte.
 - 🌱 Aprendendo: Java Script, Kotlin, Flesk e Python.
-- 🔊 Linguagens: Inglês Básico
+- 🔊 Linguagens: Inglês Intermediário
 - 🎓 Formação: Engenharia da Computação
 
 
