@@ -1,7 +1,6 @@
  ## Olá, Eu sou a Maria Saldanha!! 
 
-- 🔭 Profissão: Desenvolvedora FrontEnd.
-- 🌱 Aprendendo: Java Script, React.
+- 🔭 Profissão: Desenvolvedora FullStack.
 - 🔊 Linguagens: Inglês Intermediário
 - 🎓 Formação: Engenharia da Computação
 
